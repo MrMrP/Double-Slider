@@ -1,3 +1,0 @@
-# Double-Slider
-
-README!!!
